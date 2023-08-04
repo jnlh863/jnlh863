@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Actualmente estudiando una licenciatura en la FCFM.<br>😪 No tengo experiencia en el campo laboral, pero <br>      he estado practicando distintas tecnologías <br>      para tener un mejor panorama en el entorno backend.<br>🤝 Me gusta el trabajo en equipo.<br>
+📚 Actualmente estudiando una licenciatura en la FCFM.<br>😪 No tengo experiencia en el campo laboral, pero he estado practicando distintas tecnologías para tener un mejor panorama en el entorno backend.<br>🤝 Me gusta el trabajo en equipo.<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jnlh863&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jnlh863&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jnlh863&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
