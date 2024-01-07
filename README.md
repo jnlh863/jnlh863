@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Actualmente estudiando una licenciatura en la FCFM.<br>😪 No tengo experiencia en el campo laboral, pero he estado practicando distintas tecnologías para tener un mejor panorama en el entorno backend.<br>🤝 Me gusta el trabajo en equipo.<br>🤓 Estoy aprendiendo y repasando lenguajes como Java, Python, y algunos frameworks como Express.js.<br>
+📚 Actualmente estudiando una licenciatura en la FCFM.<br>😪 No tengo experiencia en el campo laboral.<br>🤝 Me gusta el trabajo en equipo.<br>🤓 Estoy aprendiendo y repasando lenguajes como Java, Python, y algunos frameworks como Express.js, Spring boot, etc.<br>
 
 
 ## 🌐 Socials:
