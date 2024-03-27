@@ -21,6 +21,11 @@
 
 
 
+# Spotify Playlist 🎶:
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iz7f2lhuawboyoeu76gwiiiyau&cover_image=true&theme=novatorem&show_offline=false&background_color=4044b5&interchange=false&bar_color=7b4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
