@@ -1,10 +1,9 @@
-# <div align="center">💫 Mi perfil:</div>
+# <div align="center">💫 Mi Stack</div>
 <div align="center">
-
+  
   [![](https://visitcount.itsvg.in/api?id=jnlh863&icon=7&color=8)](https://visitcount.itsvg.in)
-
+  
 </div>
-
 🌟 Apasionado por explorar nuevas tecnologías y enfrentar desafíos tecnológicos. 
 
 # 💻 Tech Stack:
